@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm currently building my readme file! So hold on a while to see it finished !!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivopozzani)](https://github.com/anuraghazra/github-readme-stats)
 
