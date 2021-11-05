@@ -1,7 +1,9 @@
 ### Hi there 👋 I'm currently building my readme file! So hold on a while to see it finished !!
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+📫 How to reach me: <a href="https://www.linkedin.com/in/ivopozzani/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+                       
+ <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivopozzani" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
